@@ -15,7 +15,7 @@
    <div class="container">
       <div class="col-md-offset-2 col-md-8">
          <div class="row text-center" style="margin-bottom:10px;">
-            <h2>Things To Do hoho</h2>
+            <h2>Things To Do</h2>
          </div>
 
          {{-- display success message --}}
