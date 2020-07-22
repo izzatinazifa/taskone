@@ -47,8 +47,8 @@
          </div>
 
         <div class="form-group">
-            <input type="submit" value="Save Changes" class="btn btn-success btn-lg">
-                <a href="#" onclick="history.go(-1)" class="btn btn-danger btn-lg pull-right">Go Back</a>
+            <input type="submit" value="Save Changes" class="btn btn-success btn-lg pull-right">
+                <a href="#" onclick="history.go(-1)" class="btn btn-danger btn-lg">Go Back</a>
         </div>
         </form>
     </div>
